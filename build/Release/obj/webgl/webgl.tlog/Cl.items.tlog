@@ -1,0 +1,4 @@
+F:\tetap-app-service\node_modules\gl\src\native\bindings.cc;F:\tetap-app-service\node_modules\gl\build\Release\obj\webgl\src\native\bindings.obj
+F:\tetap-app-service\node_modules\gl\src\native\webgl.cc;F:\tetap-app-service\node_modules\gl\build\Release\obj\webgl\src\native\webgl.obj
+F:\tetap-app-service\node_modules\gl\src\native\procs.cc;F:\tetap-app-service\node_modules\gl\build\Release\obj\webgl\src\native\procs.obj
+F:\tetap-app-service\node_modules\node-gyp\src\win_delay_load_hook.cc;F:\tetap-app-service\node_modules\gl\build\Release\obj\webgl\win_delay_load_hook.obj
